@@ -1,0 +1,2 @@
+# Word-Counter-
+Today, I created a Counter App from scratch. It counts the number of Words, Characters, Whitespaces and Lines in an entered text. It also has the functionality of Text Formatting like Bold and Italic. It also have a Clear Button which clears the input field.  - Uses Event Object to get the value of the text field. - Uses the Length Property to generate number of characters. - Uses Regular Expression to generate number of words and number of lines. - Uses Split Method to generate the number of spaces. - Uses Click Event Listener for bold and italic.
